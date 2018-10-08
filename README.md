@@ -1,2 +1,2 @@
-# soni-redux-saga
+# API call through redux-saga
 
